@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "onFocusChange",
+  "eslint.codeAction.disableRuleComment": {
+    "enable": false
+  },
+  "php.validate.enable": false,
+  "prettier.bracketSameLine": true
+}
