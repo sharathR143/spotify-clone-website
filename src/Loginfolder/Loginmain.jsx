@@ -109,7 +109,7 @@ const Loginmain = () => {
           </h1>
           <div className="  text-white pb-8 mt-10 border-b border-white/35  mx-5 sm:mx-0 ">
             <a href="/" className="block ">
-              <button className="grow w-full  sm:w-80 py-3 mt-5 rounded-full font-bold  border border-white/30  relative hover:border-white">
+              <button className=" w-full  sm:w-80 py-3 mt-5 rounded-full font-bold  border border-white/30  relative hover:border-white">
                 <svg
                   width="25"
                   height="24"
@@ -143,7 +143,7 @@ const Loginmain = () => {
             </a>
 
             <a href="/" className="block">
-              <button className=" grow w-full  sm:w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30 hover:border-white">
+              <button className="  w-full  sm:w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30 hover:border-white">
                 <svg
                   width="25"
                   height="24"
@@ -161,7 +161,7 @@ const Loginmain = () => {
             </a>
 
             <a href="/" className="block">
-              <button className="grow w-full  sm:w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30  hover:border-white">
+              <button className="w-full  sm:w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30  hover:border-white">
                 <svg
                   width="24"
                   height="24"
@@ -177,8 +177,8 @@ const Loginmain = () => {
               </button>
             </a>
             <div className="flex justify-center">
-              <button className="w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30 block  hover:border-white   ">
-                <span className="p-1 sm:p-0"> continue with phone number</span>
+              <button className=" w-full sm:w-80 py-3 mt-2 rounded-full font-bold border relative border-white/30 block  hover:border-white   ">
+                <span className="p-1 sm:p-0">continue with phone number</span>
               </button>
             </div>
           </div>

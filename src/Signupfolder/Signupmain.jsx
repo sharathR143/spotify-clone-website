@@ -6,7 +6,7 @@ const Signupmain = () => {
     window.location.assign("/LOGIN");
   };
   return (
-    <section className="bg-neutral-900 pb-10 w-[120%] sm:w-auto">
+    <section className="bg-neutral-900 pb-10 w-[120%] sm:w-auto h-[auto]">
       <aside className=" pt-5 pb-5 pl-5">
         <div className="flex">
           <svg
